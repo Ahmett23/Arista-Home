@@ -1,3 +1,3 @@
 let burger = document.querySelector(".burger").addEventListener("click", () => {
-    document.querySelector(".MENU").classList.toggle("active");
+    document.querySelector(".header").classList.toggle("active");
 });

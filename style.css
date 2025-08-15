@@ -11,6 +11,11 @@ body {
     color: hsl(25, 20%, 15%);
     background-color: hsl(39, 100%, 97%);
 }
+.burger {
+    display: none;
+    width: 30px;
+    color: #fff;
+}
 /* Responsive Header & Navigation */
 .header {
     background: hsl(39, 100%, 97%);
